@@ -17,5 +17,5 @@ int binarySearch(const std::vector<int>& arr, int target) {
         }
     }
 
-    return -1; #Element is not present
+    return -1; //Element is not present
 }
