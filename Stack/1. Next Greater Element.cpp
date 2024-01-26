@@ -2,6 +2,7 @@
 #include <vector>
 #include <stack>
 #include <algorithm>
+
 using namespace std;
 
 vector<int> findNextGreaterElement(const vector<int>& input) {
